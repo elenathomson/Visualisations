@@ -121,7 +121,7 @@ p2 <- world_map_freedom_2020_2_PR %>%
 # Put final plot together and save ----
 
 
-(p1/p2 + plot_annotation(title = 'Comparing Word Freedom Indexes in 2020',
+(p1/p2 + plot_annotation(title = 'Comparing World Freedom Indexes in 2020',
                          subtitle = "Green - better, Red - worse",
                          caption = "Created by Olena Thomson | Data from Freedom House | #TidyTuesday")
   + plot_layout(guides = 'collect'))

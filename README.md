@@ -12,7 +12,7 @@ Blood test boxplots. This plot shows the most common blood test results with the
 
 ## Maps
 
-Maps comparing freedom in the World. The idea comes from #TidyTusday project and the data comes from Freedom House and the United Nations.
+Two maps comparing the indexes of freedom in the World. The idea comes from #TidyTusday project and the data comes from Freedom House and the United Nations.
 
 [ Here is the code ](Maps_2022_03_TidyTuesday/Map_freedom_index_published.R)
 
