@@ -9,3 +9,11 @@ Blood test boxplots. This plot shows the most common blood test results with the
 [ Here is the code ](Boxplots/Boxplots_published.R)
 
 ![Boxplots](Boxplots/Q6Plot.png)
+
+## Maps
+
+Maps comparing freedom in the World. The idea comes from #TidyTusday project and the data comes from Freedom House and the United Nations.
+
+[ Here is the code ](Maps_2022_03_TidyTuesday/Map_freedom_index_published.R)
+
+![Maps](Maps_2022_03_TidyTuesday/Map_Comparing_Civil_lib_Polit_Rights.png)
