@@ -17,3 +17,11 @@ Two maps comparing the indexes of freedom in the World. The idea comes from #Tid
 [ Here is the code ](Maps_2022_03_TidyTuesday/Map_freedom_index_published.R)
 
 ![Maps](Maps_2022_03_TidyTuesday/Map_Comparing_Civil_lib_Polit_Rights.png)
+
+## Word cloud
+
+It is an image of a cloud of words about data science.
+
+[ Here is the code ](wordcloud/wordcloud_script.R)
+
+![Maps](wordcloud/word_cloud.png)
