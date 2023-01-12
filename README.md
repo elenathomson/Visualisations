@@ -24,4 +24,14 @@ It is an image of a cloud of words about data science.
 
 [ Here is the code ](wordcloud/wordcloud_script.R)
 
-![Maps](wordcloud/word_cloud.png)
+![cloud](wordcloud/word_cloud.png)
+
+## Violin plot
+
+It represents the distribution of actual cost of prescribed in hospitals and dispensed in the community medicines.
+Data from January 2022, NHS open prescription data.
+
+
+[ Here is the code ](violin_plot/Violin_plot_hosp_prescrip.R)
+
+![violin](violin_plot/Violin_plot_hosp_prescrip.png)
